@@ -46,8 +46,8 @@
 ## Section 4: Deployed and Presentation Information
 
 * **Deployment Platform:** Render
-* **Live Deployment URL:** [TO BE ADDED AFTER DEPLOYMENT]
-* **Video Presentation Link:** [TO BE ADDED AFTER VIDEO RECORDING]
+* **Live Deployment URL:** https://project01-test-student-1-y8bz.onrender.com/
+* **Video Presentation Link:** https://drive.google.com/file/d/1hPNJYGfO9yScvOoAUGVIMxN2ZwNUaaRz/view?usp=sharing
 
 ---
 
