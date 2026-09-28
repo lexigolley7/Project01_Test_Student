@@ -50,6 +50,8 @@
 - **Live Deployment URL:** https://project01-test-student-1-y8bz.onrender.com/
 - **Video Presentation Link:** https://drive.google.com/file/d/1hPNJYGfO9yScvOoAUGVIMxN2ZwNUaaRz/view?usp=sharing
 
+---
+
 ## Section 5: Discussion
 - **Which search algorithm is best for this route finding problem?** The algorithms make different tradeoffs between path cost, number of nodes expanded, and the information available to guide the search. UCS and A* both found the lowest-cost route in the local Chicago, IL to Springfield, IL test. A* used heuristic information to guide the search, while UCS relied only on accumulated path cost.
 
